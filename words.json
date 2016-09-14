@@ -1,15 +1,10 @@
-
-{'absence':
- {
-     'misspellings': ['absense', 'absance'],
-     'misspellings_count': 0
- }
-}
-
-
-{'word':
- {
-     'misspellings': ['x', 'y'],
-     'misspellings_count': 0
- }
+{
+    "absence": {
+        "misspellings": ["absense", "absance"],
+        "misspellings_count": 0
+        },
+    "chicken": {
+        "misspellings": ["chiken", "chicen"],
+        "misspellings_count": 0
+     }
 }
