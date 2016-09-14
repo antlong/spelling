@@ -1,0 +1,15 @@
+
+{'absence':
+ {
+     'misspellings': ['absense', 'absance'],
+     'misspellings_count': 0
+ }
+}
+
+
+{'word':
+ {
+     'misspellings': ['x', 'y'],
+     'misspellings_count': 0
+ }
+}
